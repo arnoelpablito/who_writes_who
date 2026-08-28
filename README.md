@@ -13,11 +13,9 @@ résultats révèlent des tendances statistiques réelles, mais aussi un fort re
 autrices et auteurs, qui invite à une interprétation prudente
 
 ### Fichiers
-« descriptive.ipynb » donne le code de toute la partie description des données => parties 2. et 3. dans « rapport.pdf »
-
+«descriptive.ipynb» donne le code de toute la partie description des données => parties 2. et 3. dans «rapport.pdf»
 &nbsp;
-
-« predict.ipynd » de toute la partie prédiction de genre (en utilisant « features.py ») => partie 4. dans « rapport.pdf »
+«predict.ipynd» de toute la partie prédiction de genre (en utilisant «features.py») => partie 4. dans «rapport.pdf»
 
 
 ### Données
